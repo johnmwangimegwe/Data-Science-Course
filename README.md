@@ -1,13 +1,15 @@
-DSClass: Assignments & Notes Repository
-Overview
-This repository contains all assignments and notes for the DSClass course. It is a reference for the facilitator and students, ensuring all coursework is well-documented and accessible.
+# **DSClass: Assignments & Notes Repository**  
 
-Contents
-📌 Assignments: Submitted exercises and tasks based on class lessons.
-📚 Notes: Summaries, explanations, and key concepts covered in the course.
-📝 Practice Code: Examples and additional practice to reinforce learning.
+## **Overview**  
+This repository contains all assignments and notes for the DSClass course. It is a reference for the facilitator and students, ensuring all coursework is well-documented and accessible.  
 
-Usage
-Facilitators can review assignments and provide feedback.
-Revisit notes and code snippets to enhance understanding.
-Assignments will be updated regularly as the course progresses.
+## **Contents**  
+- 📌 **Assignments**: Submitted exercises and tasks based on class lessons.  
+- 📚 **Notes**: Summaries, explanations, and key concepts covered in the course.  
+- 📝 **Practice Code**: Examples and additional practice to reinforce learning.  
+
+## **Usage**  
+- Facilitators can review assignments and provide feedback.  
+- Revisit notes and code snippets to enhance understanding.  
+- Assignments will be updated regularly as the course progresses.  
+

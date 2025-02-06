@@ -161,6 +161,6 @@ print(tuple(x))
 
 #using enumerate methods
 class_1 = ("Ryan", "Reagan", "Ruri", "Nathan")
-y = enumerate(class_1) #The enumerate() function takes a collection (e.g. a tuple) and returns it as an enumerate object.
+y = enumerate(class_1) #The enumerate() function takes a collection and returns it as an enumerate object.
 
 print(list(y))

@@ -1,7 +1,7 @@
 # **DSClass: Assignments & Notes Repository**  
 
 ## **Overview**  
-This repository contains all assignments and notes for the DSClass course. It is a reference for the facilitator and students, ensuring all coursework is well-documented and accessible.  
+This repository contains all assignments and notes for the Data-Science-Course. It is a reference for the facilitator and students, ensuring all coursework is well-documented and accessible.  
 
 ## **Contents**  
 - 📌 **Assignments**: Submitted exercises and tasks based on class lessons.  
@@ -12,4 +12,5 @@ This repository contains all assignments and notes for the DSClass course. It is
 - Facilitators can review assignments and provide feedback.  
 - Revisit notes and code snippets to enhance understanding.  
 - Assignments will be updated regularly as the course progresses.  
+
 

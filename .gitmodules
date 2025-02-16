@@ -1,3 +1,6 @@
 [submodule "GHDemo"]
 	path = GHDemo
 	url = https://github.com/johnmwangimegwe/GHDemo.git
+[submodule "Weekly-Project/python-rock-paper-scissors-johnmwangimegwe"]
+	path = Weekly-Project/python-rock-paper-scissors-johnmwangimegwe
+	url = https://github.com/johnmwangimegwe/Rock_Paper_Scissor.git

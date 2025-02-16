@@ -1,0 +1,3 @@
+[submodule "GHDemo"]
+	path = GHDemo
+	url = https://github.com/johnmwangimegwe/GHDemo.git

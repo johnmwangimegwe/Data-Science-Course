@@ -1,4 +1,4 @@
-# **DSClass: Assignments & Notes Repository**  
+# **Data-Science-Class: Assignments & Notes Repository**  
 
 ## **Overview**  
 This repository contains all assignments and notes for the Data-Science-Course. It is a reference for the facilitator and students, ensuring all coursework is well-documented and accessible.  
